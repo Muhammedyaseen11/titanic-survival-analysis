@@ -19,7 +19,7 @@ First-class passengers showed significantly higher survival rates than lower cla
 Younger passengers had a better chance of survival compared to older passengers.
 Passenger class and gender were major factors influencing survival outcomes.
 📷 Dashboard Preview
-Titanic Dashboard
+dashboard.png
 
 📈 Dashboard Features
 Overall Survival Rate Analysis
@@ -35,6 +35,7 @@ Use the available slicers and filters to explore survival patterns.
 Interact with charts to gain deeper insights into passenger demographics.
 📂 Repository Structure
 Titanic_Survival_Analysis.pbix → Power BI dashboard file
+dashboard.png → Dashboard screenshot
 README.md → Project documentation
 🎯 Business Value
 This project demonstrates data visualization, dashboard development, data modeling, and analytical storytelling skills using Power BI. It showcases the ability to transform raw data into meaningful insights through interactive reporting.
