@@ -28,7 +28,7 @@ This project analyzes the Titanic passenger dataset using Power BI. The objectiv
 
 ## 📷 Dashboard Preview
 
-![Titanic Dashboard](Titanicdashboard.png)
+![Titanic Dashboard](Titanic_dashboard.png)
 
 ## 📈 Dashboard Features
 
